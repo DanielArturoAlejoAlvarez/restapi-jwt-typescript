@@ -1,4 +1,4 @@
-# API REST JWT-Passport(typescript)
+# REST API JWT-Passport(typescript)
 ## Description
 
 This repository is a Application software with NODEjs, Express, MongoDB, JWT, Passport,etc this application contains an API created with TYPESCRIPT.
@@ -14,7 +14,7 @@ Using Postman, Insomnia,etc to feed the api.
 
 ## Usage
 ```html
-$ git clone https://github.com/DanielArturoAlejoAlvarez/apirest-jwt-typescript.git [NAME APP] 
+$ git clone https://github.com/DanielArturoAlejoAlvarez/restapi-jwt-typescript.git [NAME APP] 
 
 $ npm install
 
@@ -267,7 +267,7 @@ export default model<IUser>('User', UserSchema)
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/DanielArturoAlejoAlvarez/apirest-jwt-typescript. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/DanielArturoAlejoAlvarez/restapi-jwt-typescript. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
